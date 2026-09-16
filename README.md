@@ -3,8 +3,7 @@ This is just a collection of learning materials for computer programmers that I 
 
 ## Performance
 - Systems Performance Enterprise and the Cloud 2nd Edition by Brendan Gregg
-
-*Ben Dickens on YouTube has a series breaking this book down*: [Ben Dickens Video](https://www.youtube.com/watch?v=RBpIzmOcPmw&list=PLYO0GRl5l33A)
+    - *YouTube series breaking this book down*: [Ben Dicken Video - YouTube](https://www.youtube.com/watch?v=RBpIzmOcPmw&list=PLYO0GRl5l33A)
 
 - [CS463 Systems Performance and Concurrent Computing - Youtube](https://www.youtube.com/watch?v=7jA6PGrQjAw&list=PL0IqYAXLt1wadHmS8bI7r4gAOAfn68dAE&index=1)
 
