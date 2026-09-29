@@ -1,5 +1,10 @@
-# Programming Resources to Check Out 
-This is just a collection of learning materials for computer programmers that I like or want to check out.
+# Programming Resources
+This is just a collection of learning materials for computer programming that I like or want to check out.
+
+## Quick References
+Often-used reference sheets, cheat sheets, etc go here.
+
+- [Rust Memory Container Cheat Sheet](https://github.com/usagi/rust-memory-container-cs)
 
 ## Performance
 - Systems Performance Enterprise and the Cloud 2nd Edition by Brendan Gregg
@@ -21,4 +26,10 @@ This is just a collection of learning materials for computer programmers that I 
 ## Philosophy
 - Thinking in Systems by Donella Meadows
 - The Pragmatic Programmer by David Thomas and Andrew Hunt
+
+# Language-Specific
+
+## Rust
+- [Rustlings Exercises](https://rustlings.rust-lang.org/)
+- [The Rust Programming Language Official Book](https://doc.rust-lang.org/book/)
 
